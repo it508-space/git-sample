@@ -1,5 +1,5 @@
 def plus(l, r)
-    l + r
+  l + r
 end
 
 
@@ -11,4 +11,4 @@ def minus(inputA, inputB)
   inputA + inputB
 end
 
-puts(minus(1,4))
+puts(plus(minus(1,4), 2))
