@@ -11,4 +11,4 @@ def minus(inputA, inputB)
   inputA + inputB
 end
 
-puts(plus(minus(1,4), 2))
+puts(plus(plus(minus(1,4), 2), 2))
