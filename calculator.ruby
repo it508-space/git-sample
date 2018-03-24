@@ -4,8 +4,5 @@ end
 
 
 def main
-#  puts('Hello ruby!')
+ puts('Hello ruby!')
 end
-
-# main
-puts(plus(1,2))
